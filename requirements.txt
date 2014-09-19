@@ -13,3 +13,4 @@ PrettyTable>=0.7,<0.8
 requests>=1.2.1
 six>=1.7.0
 stevedore>=0.14
+requests-kerberos>=0.5
